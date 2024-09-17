@@ -8,7 +8,7 @@ Code is categorized and described in this README.
 
 ### Cell Ranger
 
-Scripts utilized during Cell Ranger alignment and counting steps. Aggregation was performed without normalization. The main outputs of the aggregation step are deposited to GEO as GSEXXXX.
+Scripts utilized during Cell Ranger alignment and counting steps. Aggregation was performed without normalization. The main outputs of the aggregation step are deposited to GEO as GSE277083.
 
 Shell scripts:
 
